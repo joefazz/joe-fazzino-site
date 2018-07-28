@@ -5,12 +5,11 @@ import Post from '../components/post';
 import Layout from '../components/layout';
 
 const IndexPage = ({ data }) => {
-  console.log(data);
   return (
     <Layout>
       <div>
         {data.allMarkdownRemark.edges.map(post => (
-          <Post key={post.id} {...post} />
+          <Post key={post.node.id} {...post} />
         ))}
       </div>
     </Layout>

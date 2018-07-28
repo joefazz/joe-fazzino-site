@@ -7,7 +7,7 @@ date: '2018-07-28'
 
 Hi! This is my first post on my new website, and also the first website I've ever made with **code**.
 
-This really is a big distraction project for me while I procrasinate on bug fixes for an app I plan to launch within the next week but it was fun to make so who cares.
+This really is a big distraction project for me while I procrastinate on bug fixes for an app I plan to launch within the next week but it was fun to make so who cares.
 
 My plan for this site is to make ite like a 90s era blog but without the heavy use of colour and MDMA.
 

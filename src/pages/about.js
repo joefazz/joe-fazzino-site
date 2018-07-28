@@ -13,13 +13,13 @@ const AboutPage = () => (
           height: 150px;
           border-radius: 10px;
 
-          @media (min-width: 400px) {
+          @media (min-width: 1001px) {
             float: left;
             margin-right: 20px;
             margin-bottom: 0px;
           }
 
-          @media (max-width: 320px) {
+          @media (max-width: 1000px) {
             display: block;
             margin: 0 auto;
             margin-bottom: 20px;
