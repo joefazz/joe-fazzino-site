@@ -25,7 +25,7 @@ const AboutPage = () => (
             margin-bottom: 20px;
           }
         `}
-        src="https://pbs.twimg.com/profile_images/983326497728548865/6E7vwfvW_400x400.jpg"
+        src="https://pbs.twimg.com/profile_images/1026402265190617089/zMyg2gvB_400x400.jpg"
       />
 
       <p>

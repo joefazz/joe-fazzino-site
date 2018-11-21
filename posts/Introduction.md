@@ -3,7 +3,7 @@ title: 'Introduction to this website'
 date: '2018-07-28'
 ---
 
-#### _Hello World_
+### Hello World
 
 Hi! This is my first post on my new website, and also the first website I've ever made with **code**.
 
@@ -13,7 +13,7 @@ My plan for this site is to make ite like a 90s era blog but without the heavy u
 
 A notepad where I can write some thoughts, stories and maybe something that is worth more than its weight in bandwidth.
 
-#### _Tech_
+### Tech
 
 This website is built with [GatsbyJS](https://gatsbyjs.org) v2. It uses [Emotion](https://github.com/emotion-js/emotion) for a CSS in JS solution. All these posts are written in **markdown** which means I can do...
 

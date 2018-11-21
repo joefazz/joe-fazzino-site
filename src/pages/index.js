@@ -8,7 +8,7 @@ const IndexPage = ({ data }) => {
   return (
     <Layout>
       <div>
-        {data.allMarkdownRemark.edges.map(post => (
+        {data.allMarkdownRemark.edges.reverse().map(post => (
           <Post key={post.node.id} {...post} />
         ))}
       </div>
